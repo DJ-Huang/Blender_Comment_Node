@@ -120,7 +120,7 @@ class GenericNoteNode(bpy.types.Node):
 
 def add_node_menu_func(self, context):
     self.layout.operator_context = 'INVOKE_REGION_WIN'
-    self.layout.operator("node.add_generic_note_node", text="Generic Note")
+    self.layout.operator("node.add_generic_note_node", text="Comment Note")
 
 
 class AddGenericNoteNode(bpy.types.Operator):
