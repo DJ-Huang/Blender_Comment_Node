@@ -10,13 +10,11 @@ ___
 1. Installing scripts via add-on
 
 2. In the shader editor, select the comments node via the add menu
-
 ![](Doc/add.jpg)
 
 3. There are three ways to add text
 
     - Type in Text Field
-
     ![](Doc/type.jpg)
 
     -  Text From Text Editor
